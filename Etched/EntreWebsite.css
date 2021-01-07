@@ -1,0 +1,57 @@
+ /* Rebecca created this file on 10/27/20  */
+/* 11/5/2020 - we started styling the nav bar.*/ 
+/* 11/6/2020 - Changed some colors and links */
+/* 11/11/2020 -  We added more styling and colors*/
+
+html{
+    text-align:center;
+    background-color:rgb(244, 241, 253)
+}
+#NavBar{
+   background-color:rgb(78, 85, 88);
+   font-size:23px;
+   padding:8px
+
+}
+#NavBar li{
+   display:inline-block; 
+   padding:15px;
+}
+a:link{
+    color:rgb(208, 240, 232);
+    transition:all 0.2;
+    text-decoration:none;
+    font-family: 'Montserrat', sans-serif;
+
+}
+a:active{
+    color:rgb(70, 93, 167)
+}
+a:visited{
+    color:rgb(222, 196, 240)
+}
+h1{
+    font-size: 55px;
+    font-family: 'Montserrat';
+}
+p{
+    Padding-left: 400px;
+    Padding-right: 400px;
+    Font-size: 20px;
+}
+#photo{
+    border-radius:0.3in;
+    padding:15px;
+}
+#photo:hover{
+   transform:scale(1.05);
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    color: rgb(49, 45, 51)
+}
+h3{
+    font-size: 10px
+}

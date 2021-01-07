@@ -1,0 +1,80 @@
+/* Emma Kacher Created this file on 10.27.20
+EMMA KACHER IS MY NAME PLAYING MINCRAFT IS MY GAME */
+/* We made a nav bar pretty, changed size and font on 11/6/20*/
+/* Avni added more fonts and played with spacing 11/12/20*/
+/* Added padding/alignment, hover on navbar, and just worked on css 11/13/20 */
+
+
+#navbar {
+    background-color: #c2755b;
+    font-size: medium;
+    text-align: center;
+    }
+    
+    #navbar li {
+        font-family: 'Amiko', sans-serif;    
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 40px;
+    }
+
+
+h2 {
+    font-family: 'Amiko', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+
+    h1 {
+        font-family: 'Amiko', sans-serif;
+        text-align: center;
+        font-size: 50px;
+    }
+
+    a {
+        font-family: 'Amiko', sans-serif;
+        text-decoration: none;
+        color: black;
+    }
+    a:hover {
+        text-decoration: none;
+        color: white;
+    }
+
+tr {
+    font-family: 'Amiko', sans-serif;
+    font-size: 20px;
+}
+        
+    p {
+        font-family: 'Amiko', sans-serif;
+        text-align: center;
+      
+       
+    }
+
+    h4 {
+        text-align: center;
+        font-family: 'Amiko', sans-serif;
+    }
+
+        
+    
+
+    #intro {
+        font-family: 'Amiko', sans-serif; 
+        padding-left: 100px;
+        padding-right: 100px;
+        text-align: center;
+    }
+
+    
+    iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 5px double  #c2755b;
+      }

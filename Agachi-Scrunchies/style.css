@@ -1,0 +1,107 @@
+/* Inari created this document on 10/27/20 */
+/* Grace added nav bar style in a group Nov. 5 */
+/* grace added home page style */
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Karla&family=Tajawal:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+#navbar {
+    background-color:rgb(195,232,235);
+    border-style: solid;
+    border-color: rgb(255,138,161);
+    border-width: 8px;
+    text-align: center;
+    font-size: 23;
+    margin: 12px;
+    font-family: 'Special Elite', cursive;
+}
+
+#navbar li {
+    display: inline-block;
+    
+}
+#navbar a {
+    color: rgb(77.77,77);
+
+}
+#navbar a:link {
+    color: slategray;
+    text-decoration: none;
+}
+#navbar a:visited {
+    color: lightslategray;
+}
+#home {
+ margin-top: 12px;
+ align-self:  center;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ height: 700px;
+}
+
+h3 {
+    color: rgb(255,138,161);
+    font-size: 40;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+
+li { 
+    padding-right: 100;
+    padding-left: 100;
+}
+
+h2 { 
+    font-family: 'Special Elite', cursive; 
+    text-align: center;
+    color: rgb(255,138,161);
+}
+
+#stuff {
+   margin-left: 100px;
+   margin-right: 150px;
+   text-align: center;
+   border-radius: 100px;
+}
+p {
+    font-family: 'ABeeZee';
+    text-align: center;
+    color: darkslategray;
+}
+h4 {
+    color: darkslategray;
+    font-family: 'Special Elite', cursive;
+    text-align: center;
+}
+
+#stuff img:hover { 
+    min-width: 389; 
+    min-height:520;
+}
+img { 
+    border-radius: 40px; 
+    border-style: solid;
+    border-color: pink;
+}
+
+iframe.CostOfGoods { 
+    height: 500px;
+    width: 750px;
+}
+
+#cogs {
+    text-align: center;
+}
+
+#Bitmojis {
+    text-align: center;
+}
+
+.bigger:hover { 
+    transform: scale(1.1);
+    transition: 1.2s ease
+}
+
+iframe { 
+    border-radius: 40px;
+}

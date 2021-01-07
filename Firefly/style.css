@@ -1,0 +1,44 @@
+/* font-family: 'Satisfy', cursive;  Copy and paste this to use the font satisfy */
+/* Josie added style for p and h2 */
+/* Josie created style.css */
+body{ 
+    background-color:rgb(229, 250, 250);
+    text-align: center;
+}
+h2{
+    color:rgb(4, 4, 43);
+    text-align: center;
+}
+p{
+    color: rgb(4, 4, 43);
+    font-size: 20;
+   
+}
+#nav{
+    background-color: rgb(243, 242, 242);
+    border-style:outset;
+    border-color: rgb(243, 243, 243);
+    color: black;
+    text-align: center;
+}
+#nav ul{
+    font-family: cursive;
+}
+#nav li{
+    display: inline-block;
+    font-size: 30px;
+    padding-left: 100;
+    padding-right: 100;
+  
+}
+#nav a{
+    color: black;
+    
+}
+#nav #Title{
+    font-size: 40;
+}
+img:hover{
+    transform: scale(1.07);
+}
+

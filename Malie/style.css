@@ -1,0 +1,54 @@
+/* style added by the team on 11/13/20 */
+/* file created by Sherlyn on 10.27.20 */
+#navbar {
+    background-color: rgb(211, 211, 250);    
+}
+
+#navbar li {
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    
+}
+
+a:hover {
+    color: #93b1e7;
+}
+html{
+    background-color: white;
+    font-family: sans-serif;
+    color: #93b1e7;
+}
+
+a {
+    color: white;
+
+}
+#WebsiteLink {
+    color: rgb(211, 211, 250);
+    
+}
+
+
+body {
+text-align: center;
+}
+
+h1 {
+    font-family: 'Pangolin', regular;
+    font-size: 50px;
+}
+
+#COGS{
+    border-style: solid;
+    border-width: 7px;
+    Color: rgb(211, 211, 250);
+}
+
+iframe {
+    border-style: solid;
+    border-width: 10px;
+    Color: rgb(211, 211, 250);
+
+}

@@ -1,0 +1,77 @@
+/* schuyler created this file */
+
+#navbar {
+    background-color: #f5ab7a;
+    text-align: right;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgba(240, 132, 70, 0.897);
+    font-family: 'Fredericka the Great';
+    
+    }
+    
+    #navbar a {
+        text-decoration: none;
+    }
+
+    #navbar {
+        font-size: 30px;
+    }
+    
+#navbar li {
+    display: inline-block;
+    padding: 10px;
+}
+
+a:hover {
+    color: #cf8b64;
+}
+
+a {
+    color: rgb(177, 73, 26);
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 60px;
+}
+#navbar a {
+   
+    padding-left: 100px;
+    padding-right: 300px;
+}
+body {
+    background-color: #f0ecdd;
+
+}
+
+body {
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  .block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: rgb(209, 143, 82);
+    padding: 15px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 200%;
+    padding: 20px;
+  }

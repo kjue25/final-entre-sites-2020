@@ -1,0 +1,211 @@
+/* Vivian made this css thing  */
+#navbar a:visited {
+ color: #85ab9a ;
+}
+
+#navbar a:hover {
+    color: #c2a5bc;
+    text-align: left;
+}
+
+
+
+
+#navbar{
+    font-size: 30px;
+}
+
+
+#navbar {
+     font-family: 'Playfair Display', serif;
+}
+
+     #navbar li {display: inline-block;
+    }
+    #ede9d3
+
+    
+    
+
+h4 {
+    font-family: 'Playfair Display', serif;
+}
+h4 {
+    font-size: 16px;
+}
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+
+h6 {
+    font-size: 20px;
+}
+
+
+h6 {
+    font-family: 'Playfair Display', serif; 
+}
+
+
+h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+ #navbar {
+    text-align: center;
+ }
+
+ a:hover {
+    text-decoration: none;
+    color:#c2a5bc ;
+ }
+ #navbar{
+    border-style:solid ;
+    border-width: 5px;
+    border-color:#85ab9a;
+}
+a {
+    text-decoration: none;
+}
+
+
+h4 {
+    text-align: center;
+ }
+
+ h4 {
+    color: #C9C3D2;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h4 {
+    font-family: 'Playfair Display', serif;
+ }
+
+ h5 {
+    text-align: center;
+ }
+
+ h5 {
+    color:#C1D0D2;
+
+ }
+ h5 {
+    font-size: 20px;
+ }
+
+
+
+ h5 {
+    font-family: 'Playfair Display', serif;
+ }
+
+
+ h6 {
+    text-align: center;
+ }
+
+ h6 {
+    color: #D4C5CF;
+ } 
+
+ h6 {
+    font-size: 20px;
+ }
+
+ h6 {
+    font-family: 'Playfair Display', serif;
+ }
+
+ h3 {
+    color: #85ab9a;
+ }
+
+ h3 {
+    font-size: 25px;
+ }
+ 
+ h3 {
+    font-family: 'Playfair Display', serif; 
+ }
+
+ h2 {
+    text-align: center
+}
+
+h4 {
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Playfair Display', serif;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h4 {
+    color: #85ab9a;
+}
+
+body{
+    background-color: #fffafb 
+}
+
+table {
+    text-align: center;
+}
+
+td {
+    font-family: 'Playfair Display', serif;
+}
+
+th {
+    font-family: 'Playfair Display', serif;
+}
+
+td {
+    color: #C1D0D2
+}
+
+th {
+    color: #C1D0D2;
+}
+
+
+th{
+    font-size: 20;
+}
+p {
+   text-align: center;
+}
+p {
+    font-size: 20;
+}
+
+p {
+    color:#c2a5bc ;
+    font-family: 'Playfair Display', serif;
+}
+}
+
