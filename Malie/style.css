@@ -40,6 +40,11 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    font-family: 'Pangolin', regular;
+    font-size: 50px;
+}
+
 #COGS{
     border-style: solid;
     border-width: 7px;
@@ -52,3 +57,4 @@ iframe {
     Color: rgb(211, 211, 250);
 
 }
+
