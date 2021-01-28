@@ -29,11 +29,13 @@ body {
 }
 
 h4 {
-    text-align: center; 
+    text-align: center;
+    font-size: xx-large;
 }
 
 h3 {
     text-align: center; 
+    font-size: x-large;
 }
 
 img {
@@ -61,6 +63,9 @@ p {
     font-size: 20px;
     
     
+}
+#description {
+    font-size: large;
 }
 
 
