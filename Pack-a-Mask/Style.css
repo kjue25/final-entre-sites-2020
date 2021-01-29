@@ -53,7 +53,7 @@ div.scroll {
     font-family: 'Courier New', Courier, monospace;
     background-color: #fffea8; /*slightly more green: #fbffc1 */
     width: 600px;
-    height: 815;
+    height: 1100;
     overflow-x: hidden;
     overflow-y: auto;
     text-align: left;
