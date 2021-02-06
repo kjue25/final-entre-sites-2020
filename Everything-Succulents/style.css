@@ -11,7 +11,11 @@
  font-family: monospace;
 font-size: 26px;
 }   
- 
+
+a{ 
+    color: #ffa6d9
+}
+
 body {  
     background-color: white;  
 
