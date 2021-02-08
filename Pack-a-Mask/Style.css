@@ -53,7 +53,7 @@ div.scroll {
     font-family: 'Courier New', Courier, monospace;
     background-color: #fffea8; /*slightly more green: #fbffc1 */
     width: 600px;
-    height: 1100;
+    height: 1275;
     overflow-x: hidden;
     overflow-y: auto;
     text-align: left;
@@ -73,7 +73,23 @@ div.scroll2 {
     font-family: 'Courier New', Courier, monospace;
     background-color: #fffea8;
     width: 1400px;
-    height: 200;
+    height: 240;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: left;
+    /*margin-left: 1%; */
+    color: black;
+    border-style: dashed;
+    border-color: lightgray;
+    border-width: 3px;
+    /*margin-bottom: 2%; */
+}
+
+div.scroll3 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fffea8;
+    width: 1400px;
+    height: 280;
     overflow-x: hidden;
     overflow-y: auto;
     text-align: left;
