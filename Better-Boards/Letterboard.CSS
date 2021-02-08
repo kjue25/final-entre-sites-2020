@@ -51,6 +51,8 @@ tr {
     p {
         font-family: 'Amiko', sans-serif;
         text-align: center;
+        padding-right: 150px;
+        padding-left: 150px;
       
        
     }
@@ -60,7 +62,10 @@ tr {
         font-family: 'Amiko', sans-serif;
     }
 
-        
+    h3 {
+        text-align: center;
+        font-family: 'Amiko', sans-serif;
+    } 
     
 
     #intro {
