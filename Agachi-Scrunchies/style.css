@@ -84,7 +84,7 @@ img {
     border-color: pink;
 }
 
-iframe.CostOfGoods { 
+iframe { 
     height: 500px;
     width: 750px;
 }
@@ -147,3 +147,18 @@ button {
 #packimg img {
     border: none;
 }
+
+#about p {
+margin-left: 100px;
+margin-right: 100px;
+text-align: center;
+
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
