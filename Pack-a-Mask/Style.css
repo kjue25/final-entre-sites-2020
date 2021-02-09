@@ -4,15 +4,13 @@
     border-style: solid;
     border-color: rgb(192, 191, 191); 
     border-width: 3px;
-    padding-right: 100px;
-    padding-top: 25px;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    padding-left: 10px;
     display: flex;
     justify-content: center;
-
-
+    position: fixed;
+    top: 5;
+    width: 100%;
 }
 
 #navbar li {
@@ -71,23 +69,23 @@ div.scroll {
 
 div.scroll2 {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #fffea8;
+    /*background-color: #fffea8; */
     width: 1400px;
-    height: 240;
+    height: 440;
     overflow-x: hidden;
     overflow-y: auto;
     text-align: left;
     /*margin-left: 1%; */
     color: black;
-    border-style: dashed;
+    /*border-style: dashed;
     border-color: lightgray;
-    border-width: 3px;
+    border-width: 3px; */
     /*margin-bottom: 2%; */
 }
 
 div.scroll3 {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #fffea8;
+    /*background-color: #fffea8;*/
     width: 1400px;
     height: 280;
     overflow-x: hidden;
@@ -95,9 +93,9 @@ div.scroll3 {
     text-align: left;
     /*margin-left: 1%; */
     color: black;
-    border-style: dashed;
+    /*border-style: dashed;
     border-color: lightgray;
-    border-width: 3px;
+    border-width: 3px;*/
     /*margin-bottom: 2%; */
 }
 
