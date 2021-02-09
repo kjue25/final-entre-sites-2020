@@ -21,6 +21,11 @@
     padding: 1px;
 }
 
+#navbar a {
+   
+    padding-left: 100px;
+    padding-right: 100px;
+}
 a:hover {
     color:;
 }
@@ -34,11 +39,7 @@ h1 {
     font-size: 60px;
     text-align: center
 }
-#navbar a {
-   
-    padding-left: 100px;
-    padding-right: 300px;
-}
+
 body {
     ;
 
