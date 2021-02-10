@@ -1,17 +1,24 @@
 body {
-    padding: 20px;
-    font-family: 'Lato', sans-serif;
-    border-style: double;
-    border-color: rgb(149, 149, 255);
-    border-width: 10px;
-    border-radius: 2em;
     text-align: center;
+    background-color: #f7f7f7;
 }
 
 h1 {
     font-size: 50px;
-    background-color: rgb(149, 149, 255);
-    border-radius: 2em;
+    background-color: #a0bce8;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px;
+    margin:0px;
+  
+}
+
+h2 {
+    font-size: 30px;
+    background-color: #a0bce8;
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    margin-top:0px;
+  
 }
 
 p {
@@ -20,6 +27,9 @@ p {
 
 li {
     font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    display: inline-block;
+    text-align: center;
 }
 
 a {
@@ -45,15 +55,4 @@ td {
 
 #projects {
     display: none;
-}
-
-#password p {
-    font-size: 25px;
-}
-
-#password {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);  
 }
