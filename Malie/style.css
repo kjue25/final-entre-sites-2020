@@ -1,4 +1,3 @@
-/* style added by the team on 11/13/20 */
 /* file created by Sherlyn on 10.27.20 */
 #navbar {
     background-color: rgb(211, 211, 250);    
@@ -55,15 +54,16 @@ li{
     font-size: 20px;
 }
 
+#COGS{
+    border-style: solid;
+    border-width: 7px;
+    Color: rgb(211, 211, 250);
+}
+
 iframe {
     border-style: solid;
     border-width: 10px;
     Color: rgb(211, 211, 250);
 
-}
-
-h4 {
-    font-family: 'Pangolin', regular;
-    font-size: 20px;
 }
 
