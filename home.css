@@ -4,21 +4,19 @@ body {
 }
 
 h1 {
-    font-size: 50px;
-    background-color: #a0bce8;
-    font-family: 'Raleway', sans-serif;
-    padding: 10px;
-    margin:0px;
-  
-}
-
-h2 {
     font-size: 30px;
     background-color: #a0bce8;
     font-family: 'Raleway', sans-serif;
     padding: 5px;
+    margin:0px;
+}
+
+h2 {
+    font-size: 20px;
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
     margin-top:0px;
-  
 }
 
 p {
@@ -33,7 +31,7 @@ li {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
